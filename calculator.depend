@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507720172 source:/home/mohamed-galal/Desktop/Embedded/calculator/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
